@@ -1,0 +1,51 @@
+    h1{
+        text-align: center;
+    }
+    .mama{
+        background-color: pink;
+       width: 80%;
+  
+       margin-left: auto;
+      margin-right: auto;
+      padding: 20px;
+      max-width: 500px;
+       
+    }
+    .start{
+        text-align: center;
+    }
+    .title{
+        text-align: center;
+    }
+    a :hover{
+        color: red;
+        cursor: pointer;
+    }
+    a :visited{
+        color: red;
+    }
+    a :active{
+        color: red;
+    }
+.price{
+    text-align: right;
+    float: right;
+   margin-right: 30px;
+}
+a{
+    text-decoration: none;
+}
+hr{
+    height: 10px;
+    background-color: yellow;
+    width: 80%;
+}
+.menu{
+    padding-left: 30px;
+  
+}
+
+body{
+    background-image: url(pexels-steve-1269968.jpg);
+}
+    
