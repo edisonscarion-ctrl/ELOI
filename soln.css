@@ -1,0 +1,73 @@
+*{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+
+
+body{
+    background-image: url(images/favicon-32x32.png);
+    overflow: hidden;
+}
+.blu{
+    background-color: lightblue;
+     border: 2px solid lightblue;
+      width: 1700px;
+     
+     margin:60px auto ;
+     height: 800px;
+}
+.white{
+    background-color: white;
+     border: 2px solid white;
+      width: 600px;
+    border-radius: 20px;
+     margin:40px auto ;
+     height: 700px;
+    
+}
+.ima{
+    margin: 10px 10px;
+    border-radius: 20px;
+   
+   height: 470px;
+   background-image: url(images/image-qr-code.png);
+}
+.word{
+   
+    text-align: center;
+}
+.word h2{
+  font-size: 40px;
+  padding: auto 80px;
+  
+}
+
+@media (min-width: 600px ){
+    
+.blu{
+    background-color: red;
+      width: 600px;
+     
+     margin:100px auto ;
+     height: 800px; 
+}
+.white{
+     margin:40px auto;
+  
+}
+
+
+}
+@media (min-width: 900px ){
+    
+.blu{
+    background-color: pink;
+    
+}
+
+
+}

@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+.all{
+    margin:  auto;
+    width: 100%;
+    height: 85%;
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    gap: 20px;
+}
+.Aa{
+    width: 60%;
+    height: 20vh;
+    background-color: orangered;
+     margin: 10px auto;
+   padding-top: 10px;
+     text-align: center;
+}
+.Ba{
+      width: 60%;
+    height: 20vh;
+    background-color: yellow;
+   margin: 10px auto;
+   padding-top: 10px;
+     text-align: center;
+}
+.Ca{
+    width: 60%;
+    height: 20vh;
+    background-color: blue;
+    margin: 10px auto;
+   padding-top: 10px;
+     text-align: center;
+}
+.Da{
+    width: 60%;
+    height: 20vh;
+    background-color: brown;
+    margin: 10px auto;
+   padding-top: 10px;
+     text-align: center;
+}
