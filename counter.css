@@ -1,0 +1,22 @@
+#button{
+  text-align: center;
+    
+}
+button{
+    background-color: blue;
+    color: white;
+    text-align: center;
+        padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.25s; 
+}
+#label{
+    display: block;
+   font-size: 10em;
+    font-family: Arial, Helvetica, sans-serif ;
+    text-align: center; 
+ 
+}
+button:hover{
+    background-color: orange;
+}

@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.all{
+    margin: 20px auto;
+    width: 80%;
+    max-width: 400px;
+    height: 40vh;
+    max-height: 600px;
+    background-color: antiquewhite;
+    box-shadow: 2px 2px 2px 2px grey;
+    text-align: center;
+    padding-top: 20px;
+}
+#btn{
+    width: 120px;
+    height: 40px;
+    text-align: center;
+    font-size: 30px;
+}
+input{
+       padding-top: 10px;
+}
+button{
+    font-size: 1em;
+    background-color: red;
+}
